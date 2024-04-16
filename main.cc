@@ -1,4 +1,7 @@
 #include <iostream>
+#include<cmath>
+#include<vector>
+#include<map>
 using namespace std;
 
 void bubbleSort(int arr[], int n) {
